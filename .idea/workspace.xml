@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35b44f39-4265-4cb7-a436-cd749fb44949" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/pondpike/Images/HomeIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/pondpike/Images/Pondpikelogo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pondpike/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pondpike/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pondpike/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pondpike/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/pondpike/Fish Selection.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/pondpike/FishSelection.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/pondpike/PondPikeSignUp.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/pondpike/PondPikeSignUp.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/pondpike/PondpikeLogin.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/pondpike/PondpikeLogin.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pondpike/Fish Selection.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pondpike/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pondpike/App.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/pondpike/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pondpike/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/com/pondpike" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
@@ -53,7 +52,7 @@
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pondpike.App" />
-      <module name="MavenPondpike" />
+      <module name="MavenPondPikeTransitions" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.pondpike.*" />
@@ -84,37 +83,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="360" y="0" key="#App" timestamp="1580562576357">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="0" key="#App/0.0.1280.680@0.0.1280.680" timestamp="1580562576357" />
     <state x="407" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579947800433">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="407" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1579947800433" />
-    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1579877758398">
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1580562979212">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579877758398" />
-    <state width="1237" height="160" key="GridCell.Tab.0.bottom" timestamp="1579948265693">
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580562979212" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1580565224856">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579948265693" />
-    <state width="1237" height="160" key="GridCell.Tab.0.center" timestamp="1579948265693">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580565224856" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1580565224856">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579948265693" />
-    <state width="1237" height="160" key="GridCell.Tab.0.left" timestamp="1579948265693">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580565224856" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1580565224856">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579948265693" />
-    <state width="1237" height="160" key="GridCell.Tab.0.right" timestamp="1579948265693">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580565224856" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1580565224856">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579948265693" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1579947975510">
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580565224856" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1580562996941">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579947975510" />
-    <state x="656" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1579947584020">
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580562996941" />
+    <state x="656" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1582565301068">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="656" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579947584020" />
+    <state x="656" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582565301068" />
   </component>
 </project>
